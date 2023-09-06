@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "Flexo";
+  src: url("/assets/fonts/Flexo-Regular.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("/assets/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LiXuKe";
+  src: url("/assets/fonts/李旭科书法.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.rarity0 {
+  color: #ffffff !important;
+
+  * {
+    color: #ffffff !important;
+  }
+}
+
+.rarity1 {
+  color: #68d5ed !important;
+
+  * {
+    color: #68d5ed !important;
+  }
+}
+
+.rarity2 {
+  color: #b36bff !important;
+
+  * {
+    color: #b36bff !important;
+  }
+}
+
+.rarity3 {
+  color: #ff00f0 !important;
+
+  * {
+    color: #ff00f0 !important;
+  }
+}
+
+.rarity4 {
+  color: #ffb100 !important;
+
+  * {
+    color: #ffb100 !important;
+  }
+}
+
+.rarity5 {
+  color: #ff6666 !important;
+
+  * {
+    color: #ff6666 !important;
+  }
+}
+
+.rarity6 {
+  color: #ff7800 !important;
+
+  * {
+    color: #ff7800 !important;
+  }
+}
+
+.color-disabled {
+  color: #ff3232 !important;
+
+  * {
+    color: #ff3232 !important;
+  }
+}
+
+.em08 {
+  font-size: 0.8em;
+}
+
+.em09 {
+  font-size: 0.9em;
+}
+
+#app {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+#main-title, .vp-description, .vp-feature-header {
+  font-family: 'LiXuKe', sans-serif;
+}
+
+.vp-site-name {
+  display: none;
+}
+
+.page-info {
+  font-size: 12px;
+}
+
+.vp-breadcrumb {
+  display: none;
+}
+
+.walkthrough-dungeon-intro {
+  display: flex;
+  align-items: center;
+  font-size: 0.8em;
+}
