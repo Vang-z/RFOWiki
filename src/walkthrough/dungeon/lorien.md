@@ -3,7 +3,7 @@ title: 洛兰
 index: true
 author: 🍓
 date: 2023-09-04
-icon: gitlab
+icon: dungeon
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]
 editLink: true
 contributors: true

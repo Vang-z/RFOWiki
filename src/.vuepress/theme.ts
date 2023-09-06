@@ -7,8 +7,8 @@ export default hopeTheme({
   author: {
     name: "Vang-z",
   },
-  repo: "https://github.com/Vang-z/rfo-wiki",
-  iconAssets: "iconfont",
+  repo: "https://github.com/Vang-z/RFOWiki",
+  iconAssets: "fontawesome",
   docsDir: "src",
   navbar,
   sidebar,

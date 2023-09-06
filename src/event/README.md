@@ -1,7 +1,7 @@
 ---
 title: 活动
 index: true
-icon: launch
+icon: hourglass-half
 pageInfo: false
 editLink: false
 contributors: false

@@ -25,9 +25,7 @@ export default defineUserConfig({
       ],
     }),
     redirectPlugin({
-      config: {
-        "/walkthrough": "/walkthrough/intro.html",
-      },
+      config: {},
     }),
   ],
 

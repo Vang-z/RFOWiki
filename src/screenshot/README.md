@@ -3,7 +3,7 @@ title: 剧情回顾
 index: true
 author: 🍓
 date: 2023-09-03
-icon: pic
+icon: puzzle-piece
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]
 editLink: true
 contributors: true

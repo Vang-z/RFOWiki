@@ -1,7 +1,7 @@
 ---
 title: 公告
 index: true
-icon: creative
+icon: bell
 pageInfo: false
 editLink: false
 contributors: false

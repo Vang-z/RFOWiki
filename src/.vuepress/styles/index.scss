@@ -115,6 +115,15 @@
   display: none;
 }
 
+.vp-sidebar-heading, .vp-sidebar-link {
+  font-size: 0.9rem !important;
+}
+
+.vp-sidebar-group .vp-sidebar-link {
+  display: flex;
+  align-items: flex-end;
+}
+
 .walkthrough-dungeon-intro {
   display: flex;
   align-items: center;
