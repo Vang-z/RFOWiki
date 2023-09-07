@@ -1,7 +1,7 @@
 ---
 title: 其他
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-06
 icon: link
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]

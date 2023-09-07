@@ -83,12 +83,32 @@
   }
 }
 
+.color-passive {
+  color: #8cff71 !important;
+
+  * {
+    color: #8cff71 !important;
+  }
+}
+
+.color-active {
+  color: #f7d65a !important;
+
+  * {
+    color: #f7d65a !important;
+  }
+}
+
 .em08 {
   font-size: 0.8em;
 }
 
 .em09 {
   font-size: 0.9em;
+}
+
+table {
+  border-collapse: separate;
 }
 
 #app {
@@ -121,11 +141,30 @@
 
 .vp-sidebar-group .vp-sidebar-link {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
 }
 
 .walkthrough-dungeon-intro {
   display: flex;
   align-items: center;
   font-size: 0.8em;
+}
+
+.skill {
+  display: none;
+
+  & + table {
+    font-size: 0.8em;
+    margin: 0;
+    width: 100%;
+
+    thead {
+      display: none;
+    }
+
+    tbody {
+      display: table;
+      width: 100%;
+    }
+  }
 }

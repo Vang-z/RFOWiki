@@ -1,7 +1,7 @@
 ---
 title: 剧情回顾
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-03
 icon: puzzle-piece
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]

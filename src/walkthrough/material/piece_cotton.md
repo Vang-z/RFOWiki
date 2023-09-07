@@ -1,7 +1,7 @@
 ---
 title: 碎布片
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-06
 icon: skull
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]

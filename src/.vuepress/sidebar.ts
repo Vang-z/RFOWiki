@@ -25,7 +25,7 @@ export default sidebar({
       icon: "children",
       collapsible: true,
       children: [
-        {text: "鬼剑士", link: "character/swardman"},
+        {text: "鬼剑士", icon: "/assets/images/ImagePacks2/sprite_item/iconmark_cn.img/5.png", link: "character/swardman"},
       ]
     },
     {

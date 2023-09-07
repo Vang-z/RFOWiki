@@ -1,7 +1,7 @@
 ---
 title: 怪物排行
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-04
 icon: skull
 pageInfo: [ "Author", "Date", "Tag", "ReadingTime", "Word", "PageView" ]

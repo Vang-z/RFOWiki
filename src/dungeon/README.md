@@ -1,7 +1,7 @@
 ---
 title: 副本排行
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-04
 icon: dungeon
 pageInfo: [ "Author", "Date", "Tag", "ReadingTime", "Word", "PageView" ]

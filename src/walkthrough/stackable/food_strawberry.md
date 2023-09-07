@@ -1,7 +1,7 @@
 ---
 title: 野草莓
 index: true
-author: 🍓
+author: Vang-z
 date: 2023-09-06
 icon: vials
 pageInfo: ["Author", "Date", "Tag", "ReadingTime", "Word", "PageView"]
