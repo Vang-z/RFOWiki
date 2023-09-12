@@ -1,4 +1,4 @@
-import { sidebar } from "vuepress-theme-hope";
+import {sidebar} from "vuepress-theme-hope";
 
 export default sidebar({
   "/notice": [],
@@ -9,7 +9,7 @@ export default sidebar({
       icon: "dungeon",
       collapsible: true,
       children: [
-        {text: "洛兰", icon: "/assets/images/ImagePacks2/sprite_monster/monsterface.img/0.png", link: "dungeon/lorien"},
+        {text: "洛兰", icon: " ", link: "dungeon/lorien"},
       ]
     },
     {
@@ -17,7 +17,7 @@ export default sidebar({
       icon: "skull",
       collapsible: true,
       children: [
-        {text: "哥布林", icon: "/assets/images/ImagePacks2/sprite_monster/monsterface.img/0.png", link: "monster/goblin"},
+        {text: "哥布林", icon: " ", link: "monster/goblin"},
       ]
     },
     {
@@ -25,7 +25,7 @@ export default sidebar({
       icon: "children",
       collapsible: true,
       children: [
-        {text: "鬼剑士", icon: "/assets/images/ImagePacks2/sprite_item/iconmark_cn.img/5.png", link: "character/swardman"},
+        {text: "鬼剑士", icon: " ", link: "character/swardman"},
       ]
     },
     {
@@ -33,7 +33,7 @@ export default sidebar({
       icon: "paw",
       collapsible: true,
       children: [
-        {text: "迷你赛丽亚", link: "creature/65000"},
+        {text: "迷你赛丽亚", icon: " ", link: "creature/65000"},
       ]
     },
     {
@@ -56,7 +56,7 @@ export default sidebar({
                   icon: " ",
                   collapsible: true,
                   children: [
-                    "equipment/weapon/swordman/ssword/sswd_damaged"
+                    {text: "破损的铁剑", icon: " ", link: "equipment/weapon/swordman/ssword/sswd_damaged"}
                   ]
                 }
               ]
@@ -70,7 +70,7 @@ export default sidebar({
       icon: "flask-vial",
       collapsible: true,
       children: [
-        {text: "野草莓", link: "stackable/food_strawberry"},
+        {text: "野草莓", icon: " ", link: "stackable/food_strawberry"},
       ]
     },
     {
@@ -78,14 +78,14 @@ export default sidebar({
       icon: "microchip",
       collapsible: true,
       children: [
-        {text: "碎布片", link: "material/piece_cotton"},
+        {text: "碎布片", icon: " ", link: "material/piece_cotton"},
       ]
     },
     {
       text: "卡片",
       icon: "cannabis",
       collapsible: true,
-      children: [{text: "青哥布林  卡片", link: "card/mcard_seagab"}]
+      children: [{text: "青哥布林  卡片", icon: " ", link: "card/mcard_seagab"}]
     },
     {
       text: "其他",
