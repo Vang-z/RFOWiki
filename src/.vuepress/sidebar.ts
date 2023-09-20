@@ -10,6 +10,7 @@ export default sidebar({
       collapsible: true,
       children: [
         {text: "洛兰", icon: " ", link: "dungeon/lorien"},
+        {text: "洛兰深处", icon: " ", link: "dungeon/lorieninside"},
       ]
     },
     {
