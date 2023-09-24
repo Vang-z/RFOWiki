@@ -1,4 +1,8 @@
 import {defineClientConfig} from "@vuepress/client";
+import {defineAsyncComponent} from "vue";
+
+
+const FooterRunTime = defineAsyncComponent(() => import("./components/FooterRunTime.vue"));
 
 export default defineClientConfig({
   setup() {
@@ -8,4 +12,7 @@ export default defineClientConfig({
       };
     }
   },
+  rootComponents: [
+    FooterRunTime,
+  ],
 });
