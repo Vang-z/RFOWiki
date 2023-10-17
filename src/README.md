@@ -15,13 +15,15 @@ tagline: 花有再开时， 人无再少年。
 <a>『rfo』</a>鼓励玩家之间的对战([PVP](https://en.wikipedia.org/wiki/Player_versus_player))，其中PVP模式分为[传统决斗场](https://rfo.wiki/#)以及[街头争霸](https://rfo.wiki/#)，两种模式的奖惩机制各不相同，具体内容请各位冒险家在游戏中体验。
 
 #### 任务规划🥳
-- [x] 重写[剑魂](https://rfo.wiki/#)技能[「里·鬼剑术」](https://rfo.wiki/#)
+- [x] 重写[剑魂](https://rfo.wiki/#)技能[「里·鬼剑术」](https://rfo.wiki/#)&[「拔刀斩」](https://rfo.wiki/#)&[「幻影剑舞」](https://rfo.wiki/#)
 - [x] 重写[复仇者](https://rfo.wiki/#)所有技能
 - [x] 重写[刺客](https://rfo.wiki/#)所有技能
 - [x] 增加[漫游枪手](https://rfo.wiki/#)技能[「花式枪术」](https://rfo.wiki/#)
+- [x] 增加[战斗法师](https://rfo.wiki/#)技能[「使徒化身」](https://rfo.wiki/#)&[「一骑当千碎霸」](https://rfo.wiki/#)&[「星纹陨爆」](https://rfo.wiki/#)
+- [x] 增加[圣骑士](https://rfo.wiki/#)技能[「圣灵之槌」](https://rfo.wiki/#)
+- [x] 重写[阿修罗](https://rfo.wiki/#)技能[「波动刻印」](https://rfo.wiki/#)
+- [x] 增加[蓝拳圣使](https://rfo.wiki/#)技能[「漩涡重拳」](https://rfo.wiki/#)&重写技能[「意念驱动」](https://rfo.wiki/#)
 - [ ] 重写[召唤师](https://rfo.wiki/#)所有技能
-- [ ] 增加[战斗法师](https://rfo.wiki/#)技能[「使徒化身」](https://rfo.wiki/#)&[「一骑当千碎霸」](https://rfo.wiki/#)
-- [ ] 增加[圣骑士](https://rfo.wiki/#)技能[「圣灵之槌」](https://rfo.wiki/#)
 - [ ] 调整全职业[PVP技能属性](https://rfo.wiki/#) **(受生产力影响无限期延迟)**
   ...
   👋未完成任务优先级不分先后顺序，此外，根据社区意见酌情增减任务
