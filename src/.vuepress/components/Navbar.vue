@@ -2,7 +2,6 @@
 import {ref, onMounted, nextTick, reactive} from "vue";
 import {useRouter} from "vue-router";
 import {Notification} from "@arco-design/web-vue";
-import {IconUser, IconLock, IconEmail} from "@arco-design/web-vue/es/icon";
 import axios from "axios";
 
 
@@ -209,14 +208,14 @@ onMounted(() => {
       <a-space>
         <a-input-number v-model="form.account" :style="{width:'320px'}" placeholder="账号" hide-button allow-clear>
           <template #prefix>
-            <icon-user/>
+            <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" class="arco-icon arco-icon-user" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter"><path d="M7 37c0-4.97 4.03-8 9-8h16c4.97 0 9 3.03 9 8v3a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1v-3Z"></path><circle cx="24" cy="15" r="8"></circle></svg>
           </template>
         </a-input-number>
       </a-space>
       <a-space>
         <a-input-password v-model="form.password" :style="{width:'320px'}" placeholder="密码" hide-button allow-clear>
           <template #prefix>
-            <icon-lock/>
+            <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" class="arco-icon arco-icon-lock" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter"><rect x="7" y="21" width="34" height="20" rx="1"></rect><path d="M15 21v-6a9 9 0 1 1 18 0v6M24 35v-8"></path></svg>
           </template>
         </a-input-password>
       </a-space>
@@ -224,14 +223,14 @@ onMounted(() => {
         <a-input-password v-model="form.password2" :style="{width:'320px'}" placeholder="确认密码" hide-button
                           allow-clear>
           <template #prefix>
-            <icon-lock/>
+            <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" class="arco-icon arco-icon-lock" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter"><rect x="7" y="21" width="34" height="20" rx="1"></rect><path d="M15 21v-6a9 9 0 1 1 18 0v6M24 35v-8"></path></svg>
           </template>
         </a-input-password>
       </a-space>
       <a-space>
         <a-input v-model="form.captcha" :style="{width:'320px', paddingRight: '0'}" placeholder="邮箱验证码">
           <template #prefix>
-            <icon-email/>
+            <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" class="arco-icon arco-icon-email" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter"><rect x="6" y="8" width="36" height="32" rx="1"></rect><path d="m37 17-12.43 8.606a1 1 0 0 1-1.14 0L11 17"></path></svg>
           </template>
           <template #suffix>
             <a-button :style="{width:'100px'}" type="primary" @click="handleSendCaptcha" :loading="countDown != 60">
