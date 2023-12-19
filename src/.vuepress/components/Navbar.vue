@@ -15,7 +15,8 @@ const form = reactive({
   captcha: null,
 });
 
-const HOST = `https://forward-rosy.vercel.app/api`;
+const HOST = `https://api.rfo.wiki//api`;
+// const HOST = `http://127.0.0.1:3000/api`;
 
 const handleClick = () => {
   visible.value = true;
@@ -60,8 +61,12 @@ const handleRegister = () => {
   axios({
     method: 'post',
     url: `${HOST}/v1/account`,
+    headers: {
+      "content-type": "application/x-www-form-urlencoded",
+    },
     data: formData
   }).then(res => {
+    console.log(res)
     if (res.status === 201) {
       Notification.success({
         content: "注册成功，今天，也是充满希望的一天🌈",
@@ -84,6 +89,7 @@ const handleRegister = () => {
       });
     }
   }).catch(err => {
+    console.log(err)
     if (err.response.status === 400) {
       Notification.error({
         content: "注册失败，验证码错误或过期👻",
@@ -202,7 +208,7 @@ onMounted(() => {
 
 <template>
   <a-modal v-model:visible="visible" hide-cancel="hide-cancel" ok-text="注册" width="360px">
-    <SpeedInsights />
+    <SpeedInsights/>
     <template #title>
       注册账号
     </template>
