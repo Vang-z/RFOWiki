@@ -14,7 +14,7 @@ const form = reactive({
   captcha: null,
 });
 
-const HOST = `https://api.rfo.wiki`;
+const HOST = `http://43.136.185.119`;
 
 const handleClick = () => {
   visible.value = true;
