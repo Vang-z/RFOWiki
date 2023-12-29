@@ -19,6 +19,10 @@
   font-style: normal;
 }
 
+body {
+  font-family: var(--font-family) !important;
+}
+
 .rarity0 {
   color: #ffffff !important;
 
@@ -170,5 +174,11 @@ table {
       display: table;
       width: 100%;
     }
+  }
+}
+
+.client_figure {
+  img {
+    width: 35em;
   }
 }
