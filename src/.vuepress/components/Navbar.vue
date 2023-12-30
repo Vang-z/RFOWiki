@@ -117,7 +117,7 @@ const handleSendCaptcha = () => {
   const qq = form.account;
   if (!qq) {
     Notification.error({
-      content: "验证码发送失败，请确保账号对应的QQ等级大于64级👻",
+      content: "验证码发送失败，请确保账号对应的QQ等级大于48级👻",
       position: "bottomRight",
       duration: 5000
     });
@@ -146,7 +146,7 @@ const handleSendCaptcha = () => {
       }
     } else if (res.status === 400) {
       Notification.error({
-        content: "验证码发送失败，请确保账号对应的QQ等级大于64级👻",
+        content: "验证码发送失败，请确保账号对应的QQ等级大于48级👻",
         position: "bottomRight",
         duration: 5000
       });
@@ -161,7 +161,7 @@ const handleSendCaptcha = () => {
   }).catch(err => {
     if (err.response.status === 400) {
       Notification.error({
-        content: "验证码发送失败，请确保账号对应的QQ等级大于64级👻",
+        content: "验证码发送失败，请确保账号对应的QQ等级大于48级👻",
         position: "bottomRight",
         duration: 5000
       });
