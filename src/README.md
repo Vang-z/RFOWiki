@@ -24,6 +24,8 @@ tagline: 花有再开时， 人无再少年。
 - [x] 重写[阿修罗](https://rfo.wiki/#)技能[「波动刻印」](https://rfo.wiki/#)
 - [x] 增加[蓝拳圣使](https://rfo.wiki/#)技能[「漩涡重拳」](https://rfo.wiki/#)&重写技能[「意念驱动」](https://rfo.wiki/#)
 - [ ] 重写[召唤师](https://rfo.wiki/#)所有技能
+- [ ] 新增职业[鬼剑士(女)](https://rfo.wiki/#)
+- [ ] 新增职业[圣职者(女)](https://rfo.wiki/#)
 - [ ] 调整全职业[PVP技能属性](https://rfo.wiki/#) **(受生产力影响无限期延迟)**
   ...
   👋未完成任务优先级不分先后顺序，此外，根据社区意见酌情增减任务
