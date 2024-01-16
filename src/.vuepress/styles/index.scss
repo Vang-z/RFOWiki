@@ -79,6 +79,18 @@ body {
   }
 }
 
+.rarity7 {
+  background: linear-gradient(to bottom, rgb(248, 198, 61), rgb(204, 102, 231));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  * {
+    background: linear-gradient(to bottom, rgb(248, 198, 61), rgb(204, 102, 231));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
 .color-disabled {
   color: #ff3232 !important;
 

@@ -28,5 +28,5 @@ export default navbar([
   {text: "玩家排行", icon: "medal", link: "/player"},
   {text: "装备排行", icon: "crown", link: "/equipment"},
   {text: "注册账号", icon: "keyboard", link: "https://register.rfo.wiki"},
-  {text: "开始冒险", icon: "download", link: "https://rfo.wiki/notice/2023-12/884383f2-ea9f-42cf-8be2-6e570103269f.html"},
+  {text: "开始冒险", icon: "download", link: "https://rfo.wiki/notice/top/884383f2-ea9f-42cf-8be2-6e570103269f.html"},
 ]);
