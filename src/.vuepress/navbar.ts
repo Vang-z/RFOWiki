@@ -17,12 +17,7 @@ export default navbar([
       {text: "其他", icon: "link",  link: "/walkthrough/other"},
     ]
   },
-  {
-    text: "剧情回顾", icon: "puzzle-piece", children: [
-      "/screenshot",
-      {text: "第一章 - 邂逅", link: "/screenshot#第一章-邂逅"},
-    ]
-  },
+  {text: "剧情回顾", icon: "puzzle-piece", link: "/screenshot"},
   {text: "副本排行", icon: "dungeon", link: "/dungeon"},
   {text: "怪物排行", icon: "skull", link: "/monster"},
   {text: "玩家排行", icon: "medal", link: "/player"},
