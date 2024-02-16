@@ -214,7 +214,7 @@ onMounted(() => {
     </template>
     <a-space direction="vertical">
       <a-space>
-        <a-input-number v-model="form.account" :style="{width:'320px'}" placeholder="账号" hide-button allow-clear>
+        <a-input-number v-model="form.account" :style="{width:'320px'}" placeholder="账号(QQ号)" hide-button allow-clear>
           <template #prefix>
             <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor"
                  class="arco-icon arco-icon-user" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter">
