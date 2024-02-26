@@ -6,6 +6,7 @@ import "@arco-design/web-vue/dist/arco.css";
 
 const FooterRunTime = defineAsyncComponent(() => import("./components/FooterRunTime.vue"));
 const Navbar = defineAsyncComponent(() => import("./components/Navbar.vue"));
+const Lead = defineAsyncComponent(() => import("./components/Lead.vue"));
 
 export default defineClientConfig({
   setup() {
@@ -19,6 +20,7 @@ export default defineClientConfig({
   rootComponents: [
     FooterRunTime,
     Navbar,
+    Lead,
   ],
   enhance: ({ app, router, siteData }) => {
     app.use(ArcoVue);
