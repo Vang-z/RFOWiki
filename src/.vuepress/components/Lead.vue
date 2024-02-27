@@ -4,18 +4,22 @@ import {useRouter} from "vue-router";
 
 
 const Lead = () => {
-  if (window.location.pathname.includes(`d2989548-9aad-46d0-80ee-f92ac6b228fb`)) {
-    const params = new URLSearchParams(window.location.search);
-    const version = params.get(`version`);
-    if (!version) return;
+  const date = `2024-02`;
+  const update_uri = `58a2ce87-97a3-47c2-8555-f62b8642f86b`;
+  const params = new URLSearchParams(window.location.search);
+  const version = params.get(`version`);
+  if (!version) return;
+  if (window.location.pathname.includes(update_uri)) {
     const ul = document.querySelector(`#下载链接 + ul`);
-    if (version !== `Ver@0.1.4`) {
+    if (version !== `Ver@0.1.5`) {
       const li = ul.children[0] as HTMLElement;
       li.style.textDecoration = `line-through`;
     } else {
       const li = ul.children[1] as HTMLElement;
       li.style.textDecoration = `line-through`;
     }
+  } else {
+    window.location.href = `https://rfo.wiki/notice/${date}/${update_uri}.html?version=${version}`
   }
 };
 

@@ -15,7 +15,7 @@ export default hopeTheme({
   footer: "<div style='display: flex; justify-content: center; align-items: center; font-size: 12px'>" +
     "POWERED BY&nbsp;" +
     "<a href='https://theme-hope.vuejs.press/' target='_blank' style='display: flex; width: 18px; height: 18px;'>" +
-    "<img style='width: 100%; height: 100%; top: 1px;' src='https://theme-hope-assets.vuejs.press/logo.svg' alt=''>" +
+    "<img style='width: 100%; height: 100%; 2023-12: 1px;' src='https://theme-hope-assets.vuejs.press/logo.svg' alt=''>" +
     "</a>" +
     "&nbsp;" +
     "<a href='https://vercel.com/' target='_blank' style='display: flex; width: 18px; height: 18px;'>" +
@@ -27,7 +27,7 @@ export default hopeTheme({
     "</a>" +
     "</div>",
   copyright: "<div style='display: flex; justify-content: center; align-items: center; font-size: 12px'>" +
-    "COPYRIGHT <div style='position: relative; font-family: Flexo, serif; top: 1px'>&nbsp;©&nbsp;</div>" +
+    "COPYRIGHT <div style='position: relative; font-family: Flexo, serif; 2023-12: 1px'>&nbsp;©&nbsp;</div>" +
     "2023 Vang-z. ALL RIGHTS RESERVED." +
     "</div>",
   displayFooter: true,
