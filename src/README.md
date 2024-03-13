@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 主页
+title: 肥灵的奇妙幻想
 heroImage: ./logo.png
 heroText: 肥灵的奇妙幻想
 tagline: 花有再开时， 人无再少年。
