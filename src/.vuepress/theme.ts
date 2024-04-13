@@ -28,7 +28,7 @@ export default hopeTheme({
     "</div>",
   copyright: "<div style='display: flex; justify-content: center; align-items: center; font-size: 12px'>" +
     "COPYRIGHT <div style='position: relative; font-family: Flexo, serif; 2023-12: 1px'>&nbsp;©&nbsp;</div>" +
-    "2023 Vang-z. ALL RIGHTS RESERVED." +
+    "2024 Vang-z. ALL RIGHTS RESERVED." +
     "</div>",
   displayFooter: true,
   metaLocales: {
