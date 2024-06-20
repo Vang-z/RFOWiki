@@ -5,13 +5,13 @@ import {useRouter} from "vue-router";
 
 const Lead = () => {
   const date = `2024-06`;
-  const update_uri = `6b1c81c2-7f19-4e89-b094-fc230f4d40fa`;
+  const update_uri = `99e1e541-c4f8-4ff9-a945-9adcf678581e`;
   const params = new URLSearchParams(window.location.search);
   const version = params.get(`version`);
   if (!version) return;
   if (window.location.pathname.includes(update_uri)) {
     const ul = document.querySelector(`#下载链接 + ul`);
-    if (version !== `Ver@0.1.32`) {
+    if (version !== `Ver@0.1.33`) {
       const li = ul.children[0] as HTMLElement;
       li.style.textDecoration = `line-through`;
     } else {
