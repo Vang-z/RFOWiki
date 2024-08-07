@@ -5,7 +5,7 @@ import {useRouter} from "vue-router";
 
 const Lead = () => {
   const date = `2024-08`;
-  const update_uri = `d6d4d466-b746-41e5-8df7-47cef4664d77`;
+  const update_uri = `1a52591e-489b-4fe6-bb04-a60496fd01c2`;
   const params = new URLSearchParams(window.location.search);
   const version = params.get(`version`);
   if (!version) return;
