@@ -18,14 +18,18 @@ tagline: 花有再开时， 人无再少年。
 - [x] 重写[剑魂](https://rfo.wiki/#)技能[「里·鬼剑术」](https://rfo.wiki/#)&[「拔刀斩」](https://rfo.wiki/#)&[「幻影剑舞」](https://rfo.wiki/#)
 - [x] 重写[复仇者](https://rfo.wiki/#)所有技能
 - [x] 重写[刺客](https://rfo.wiki/#)所有技能
-- [x] 增加[漫游枪手](https://rfo.wiki/#)技能[「花式枪术」](https://rfo.wiki/#)
+- [x] 增加[漫游枪手(男)](https://rfo.wiki/#)技能[「花式枪术」](https://rfo.wiki/#)
+- [x] 增加[漫游枪手(女)](https://rfo.wiki/#)技能[「绯红魅影」](https://rfo.wiki/#)
+- [x] 重写[漫游枪手(女)](https://rfo.wiki/#)技能[「双枪极舞刃」](https://rfo.wiki/#)
 - [x] 增加[战斗法师](https://rfo.wiki/#)技能[「使徒化身」](https://rfo.wiki/#)&[「一骑当千碎霸」](https://rfo.wiki/#)&[「星纹陨爆」](https://rfo.wiki/#)
 - [x] 增加[圣骑士](https://rfo.wiki/#)技能[「圣灵之槌」](https://rfo.wiki/#)
 - [x] 重写[阿修罗](https://rfo.wiki/#)技能[「波动刻印」](https://rfo.wiki/#)
 - [x] 增加[蓝拳圣使](https://rfo.wiki/#)技能[「漩涡重拳」](https://rfo.wiki/#)&重写技能[「意念驱动」](https://rfo.wiki/#)
+- [x] 完成[16:9分辨率模式](https://zh.wikipedia.org/wiki/%E6%98%BE%E7%A4%BA%E5%88%86%E8%BE%A8%E7%8E%87%E5%88%97%E8%A1%A8)扩展
 - [ ] 重写[召唤师](https://rfo.wiki/#)所有技能
 - [ ] 新增职业[鬼剑士(女)](https://rfo.wiki/#)
 - [ ] 新增职业[圣职者(女)](https://rfo.wiki/#)
+- [ ] 新增[团队副本 - 安徒恩攻坚战](https://rfo.wiki/#)
 - [ ] 调整全职业[PVP技能属性](https://rfo.wiki/#) **(受生产力影响无限期延迟)**
   ...
   👋未完成任务优先级不分先后顺序，此外，根据社区意见酌情增减任务
