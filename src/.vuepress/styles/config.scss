@@ -3,3 +3,8 @@ $font-family-heading: '"JetBrainsMono", "Flexo", "sans-serif"';
 $font-family-mono: '"JetBrainsMono", "Flexo", "sans-serif"';
 
 $theme-color: #f26d6d;
+
+:root {
+  --waline-avatar-size: 0;
+  --waline-m-avatar-size: 0;
+}
