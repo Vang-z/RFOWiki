@@ -25,5 +25,5 @@ export default navbar([
   {text: "注册账号", icon: "keyboard", link: "https://register.rfo.wiki"},
   {text: "开始冒险", icon: "download", link: "https://rfo.wiki/notice/top/884383f2-ea9f-42cf-8be2-6e570103269f.html"},
   {text: "加入群聊", icon: "comments", link: "https://qm.qq.com/cgi-bin/qm/qr?k=XRfxD1k-CJE1IIXcVnYA4QvKJNXKiwfE&jump_from=webapi&authKey=hBgkHmXN/+4MqoK57TZchrVP5p+HbpLfFxntmJaueK1j1ZtME9S+shQA/03n3lqZ"},
-  {text: "在线充值", icon: "cart-shopping", link: "https://qm.qq.com/cgi-bin/qm/qr?k=XRfxD1k-CJE1IIXcVnYA4QvKJNXKiwfE&jump_from=webapi&authKey=hBgkHmXN/+4MqoK57TZchrVP5p+HbpLfFxntmJaueK1j1ZtME9S+shQA/03n3lqZ"},
+  // {text: "在线充值", icon: "cart-shopping", link: "https://qm.qq.com/cgi-bin/qm/qr?k=XRfxD1k-CJE1IIXcVnYA4QvKJNXKiwfE&jump_from=webapi&authKey=hBgkHmXN/+4MqoK57TZchrVP5p+HbpLfFxntmJaueK1j1ZtME9S+shQA/03n3lqZ"},
 ]);

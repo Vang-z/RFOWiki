@@ -42,7 +42,7 @@ export default hopeTheme({
     comment: {
       // @ts-ignore
       provider: "Waline",
-      serverURL: "https://waline-drab-seven.vercel.app/",
+      serverURL: "https://waline.richelf.tech/",
       search: false,
       meta: ["nick", "mail"],
       requiredMeta: ["nick"],
