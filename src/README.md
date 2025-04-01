@@ -34,6 +34,9 @@ tagline: 花有再开时， 人无再少年。
   ...
   👋未完成任务优先级不分先后顺序，此外，根据社区意见酌情增减任务
 
-
 #### 声明🎗️
 <a>『rfo』</a>&<a>『rfo社区』</a>不对[中国大陆地区](https://baike.baidu.com/item/中国大陆地区/55741023)玩家开放，请[中国大陆地区](https://baike.baidu.com/item/中国大陆地区/55741023)玩家支持腾讯代理的[『地下城与勇士：创新世纪』](https://dnf.qq.com)。社区坚决维护[一个中国原则](https://baike.baidu.com/item/一个中国原则/638986)，维护中国的领土完整。
+
+#### 特别鸣谢🎁
+🔔排名按笔画排序不分先后
+[Flower](https://rfo.wiki/#) [UncleBang](https://rfo.wiki/#) [ZateL](https://rfo.wiki/#) [屮鱼屮](https://rfo.wiki/#14) [逸风](https://rfo.wiki/#15) [达文西](https://rfo.wiki/#16) [随小风](https://rfo.wiki/#18) [一叶知秋](https://rfo.wiki/#23) [旺仔可乐](https://rfo.wiki/#23) [似水往昔浮流年](https://rfo.wiki/#53) [美味香辣鸡腿堡](https://rfo.wiki/#72) [🍓](https://rfo.wiki/#) 

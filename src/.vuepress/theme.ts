@@ -15,15 +15,15 @@ export default hopeTheme({
   footer: "<div style='display: flex; justify-content: center; align-items: center; font-size: 12px'>" +
     "POWERED BY&nbsp;" +
     "<a href='https://theme-hope.vuejs.press/' target='_blank' style='display: flex; width: 18px; height: 18px;'>" +
-    "<img style='width: 100%; height: 100%; 2023-12: 1px;' src='https://theme-hope-assets.vuejs.press/logo.svg' alt=''>" +
+    "<img style='width: 100%; height: 100%;' src='/assets/images/theme-hope.svg' alt=''>" +
     "</a>" +
     "&nbsp;" +
     "<a href='https://vercel.com/' target='_blank' style='display: flex; width: 18px; height: 18px;'>" +
-    "<img style='width: 100%; height: 100%' src='/assets/images/vercel.png' alt=''>" +
+    "<img style='width: 100%; height: 100%' src='/assets/images/vercel.avif' alt=''>" +
     "</a>" +
     "&nbsp;&&nbsp;" +
     "<a href='https://waline.js.org/' target='_blank' style='display: flex; width: 18px; height: 18px;'>" +
-    "<img style='width: 100%; height: 100%' src='https://waline.js.org/logo.png' alt=''>" +
+    "<img style='width: 100%; height: 100%' src='/assets/images/waline.avif' alt=''>" +
     "</a>" +
     "</div>",
   copyright: "<div style='display: flex; justify-content: center; align-items: center; font-size: 12px'>" +
