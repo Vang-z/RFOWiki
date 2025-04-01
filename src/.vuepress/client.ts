@@ -2,6 +2,7 @@ import {defineClientConfig} from "@vuepress/client";
 import {defineAsyncComponent} from "vue";
 import ArcoVue from "@arco-design/web-vue";
 import "@arco-design/web-vue/dist/arco.css";
+import "vuepress-theme-hope/presets/bounce-icon.scss";
 
 
 const FooterRunTime = defineAsyncComponent(() => import("./components/FooterRunTime.vue"));
